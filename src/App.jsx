@@ -1,7 +1,5 @@
 import React, { Fragment } from 'react'
 
-import './App.css'
-
 export function ageVerifier(age) {
   
   if (age < 0) {
